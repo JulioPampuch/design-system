@@ -30,4 +30,3 @@ export const WithoutIcon: StoryObj<TextInputRootProps> = {
     children: <TextInput.Input placeholder='Type your e-mail adress' type='email' />
   }
 }
-
