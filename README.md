@@ -7,7 +7,7 @@
 
 <h3>Projeto:<h3/>
   
-![Ignite-normal](https://user-images.githubusercontent.com/97999133/206821473-b1d095bb-df98-4d45-9d92-5be9421e5471.png)
+![Ignite-normal](https://user-images.githubusercontent.com/97999133/206821567-29cdfee7-5dec-4c72-854b-ff981224c6ab.png)
   
 <hr/>
   
