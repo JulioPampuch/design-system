@@ -2,7 +2,7 @@
 
 <h2>Projeto desenvolvido no evento "Ignite-lab" da Rocketseat.</h2>
 
-<p>Desenvolvemos um design-system desde o início, comçamos no Figma e criamos todos os componentes usando React, Storybooks, Typescript e estilizamos usando Tailwind CSS.</p>
+<p>Desenvolvemos um design-system desde o início, começamos no Figma e criamos todos os componentes usando React, Storybooks, Typescript e estilizamos usando Tailwind CSS.</p>
 
 
 <h3>Projeto:<h3/>
